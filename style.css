@@ -1,0 +1,9 @@
+.blueBackground {
+	background-color: cornFlowerBlue;
+}
+.smallBoarder {
+	border: 2px solid black;
+}
+.largRedBoarder {
+	border: 10px solid red;
+}
