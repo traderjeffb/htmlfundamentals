@@ -1,9 +1,23 @@
 .blueBackground {
-	background-color: cornFlowerBlue;
+	background-color: solid blue;
 }
-.smallBoarder {
+.smallBorder {
 	border: 2px solid black;
 }
-.largRedBoarder {
+.largeRedBorder {
 	border: 10px solid red;
+}
+.greenBox {
+	background-color: lime;
+	width: 70% ;
+}
+.redBox {
+	width 70%;
+	background-color: red;
+	float: left;
+}
+.yellowBox {
+	background-color: yellow;
+	width 30%;
+	float: right;
 }
